@@ -418,7 +418,7 @@ structure:
 
 ### 📅 Calendar Feature
 
-A Calendar feature could be added to integrate calendar functionality with email.
+Calendar integration is now formally planned; see [Calendar Feature Architecture](./feature-calendar.md) for the end-to-end design, milestones, and ownership boundaries.
 
 ```shell
 feature:calendar
